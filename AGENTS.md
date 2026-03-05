@@ -19,7 +19,8 @@ This is the **quanttide-handbook-of-business-entity** submodule, part of the qua
 │   └── purchase.md  # Purchasing management
 └── qtdata/          # Quanttide data business development
     ├── index.md     # Quanttide data overview
-    └── business.md  # Business expansion processes
+    ├── business.md  # Business expansion processes
+    └── project.md   # Project management documentation
 ```
 
 ## Content Architecture
@@ -31,6 +32,7 @@ This is the **quanttide-handbook-of-business-entity** submodule, part of the qua
 - **Quanttide Data Documentation**: The `qtdata/` directory contains business development and customer management documentation
   - `index.md`: Overview of quanttide data business development
   - `business.md`: Customer message handling processes and system automation planning
+  - `project.md`: Project scope decomposition and time management processes
 
 ## Relationship to Parent Repository
 
