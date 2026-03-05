@@ -6,7 +6,7 @@
 
 - [供应链管理](./scm/index.md) - 采购与供应商管理
 - [量潮数据](./qtdata/index.md) - 商务拓展与客户管理
-- [量潮课堂](./qtclass/course.md) - 课程管理
+- [量潮课堂](./qtclass/course.md) - 课程管理与商务拓展
 
 ## 核心主题
 
