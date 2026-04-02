@@ -10,6 +10,17 @@
 
 ## [Unreleased]
 
+## [0.0.4] - 2026-04-02
+
+### 合并
+- 合并 quanttide-handbook-of-founder 内容
+  - asset/governace/ - 治理文档
+  - devops/release/ - 发布流程
+  - infra/ - 基础设施文档
+  - meta/memory/ - 记忆存档
+  - product/ - 产品文档
+  - stdn/ - 标准文档
+
 ### 新增
 - 添加 `qtdata/` 目录，包含量潮数据商务拓展文档
   - `index.md` - 量潮数据概述
