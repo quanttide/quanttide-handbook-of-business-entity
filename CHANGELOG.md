@@ -1,44 +1,71 @@
 # CHANGELOG
 
-所有显著变更都将记录在此文件中。
-
 格式基于 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.0.0/)。
 
 版本遵循语义化版本规范：0.0.x（探索期）→ 0.x.y（验证期）→ x.y.z（正式期）
 
----
-
 ## [Unreleased]
+
+### Added
+
+- 新增CONTRIBUTING.md：贡献指南和维护经验
+- 新增devops/release.md：版本发布操作指南
+
+### Changed
+
+- 更新规范链接到v0.1.1
+- 简化文档格式：删除加粗标签、减少层级
 
 ## [0.0.4] - 2026-04-02
 
-### 合并
-- 合并 quanttide-handbook-of-founder 内容
+### Added
+
+- 合并quanttide-handbook-of-founder内容
   - asset/governace/ - 治理文档
   - devops/release/ - 发布流程
   - infra/ - 基础设施文档
   - meta/memory/ - 记忆存档
   - product/ - 产品文档
   - stdn/ - 标准文档
+- 添加qtdata/目录：量潮数据商务拓展文档
+  - index.md - 量潮数据概述
+  - business.md - 商务拓展流程与系统规划
+  - project.md - 项目管理文档
 
-### 新增
-- 添加 `qtdata/` 目录，包含量潮数据商务拓展文档
-  - `index.md` - 量潮数据概述
-  - `business.md` - 商务拓展流程与系统规划
-  - `project.md` - 项目管理文档（范围分解与时间管理）
-- 更新根目录 `index.md` 包含新内容板块
-- 更新 `README.md` 项目说明
-- 更新 `qtdata/index.md` 包含项目管理链接
+### Changed
+
+- 更新根目录index.md包含新内容板块
+- 更新README.md项目说明
+
+## [0.0.3] - 2026-03-05
+
+### Added
+
+- 添加qtclass/目录：量潮课堂业务拓展文档
+  - index.md - 量潮课堂概述
+  - business.md - 业务拓展文档
+
+## [0.0.2] - 2026-03-05
+
+### Added
+
+- 添加qtdata/目录：量潮数据商务拓展文档
+  - index.md - 量潮数据概述
+  - business.md - 商务拓展流程与系统规划
+  - project.md - 项目管理文档
+
+### Changed
+
+- 更新根目录index.md包含qtdata板块
+- 更新README.md项目说明
 
 ## [0.0.1] - 2026-03-05
 
-### 探索期
-
-初始化项目结构，建立企业实体手册基础框架。
+### Added
 
 - 初始化项目结构
-- 添加 LICENSE - 开源许可证
-- 添加 README.md - 项目说明
-- 添加 scm/ - 供应链管理目录
+- 添加LICENSE - 开源许可证
+- 添加README.md - 项目说明
+- 添加scm/目录：供应链管理
   - index.md - 供应链管理概述
   - purchase.md - 采购管理
