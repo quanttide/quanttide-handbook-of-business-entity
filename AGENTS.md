@@ -6,12 +6,13 @@
 
 遵循量潮科技工程标准规范，使用版本化链接保持内容不可变：
 
-**最新版本**：v0.1.0
+**最新版本**：v0.1.1
 
-- 版本发布标准：https://github.com/quanttide/quanttide-specification-of-business-entity/blob/v0.1.0/devops/release.md
-- Git使用标准：https://github.com/quanttide/quanttide-specification-of-business-entity/blob/v0.1.0/devops/git.md
-- 文档格式标准：https://github.com/quanttide/quanttide-specification-of-business-entity/blob/v0.1.0/docs/format.md
-- Git仓库标准：https://github.com/quanttide/quanttide-specification-of-business-entity/blob/v0.1.0/asset/type/git_repo.md
+- 版本发布标准：https://github.com/quanttide/quanttide-specification-of-business-entity/blob/v0.1.1/devops/release.md
+- Git使用标准：https://github.com/quanttide/quanttide-specification-of-business-entity/blob/v0.1.1/devops/git.md
+- 文档格式标准：https://github.com/quanttide/quanttide-specification-of-business-entity/blob/v0.1.1/docs/format.md
+- Git仓库标准：https://github.com/quanttide/quanttide-specification-of-business-entity/blob/v0.1.1/asset/type/git_repo.md
+- 手册资产规范：https://github.com/quanttide/quanttide-specification-of-business-entity/blob/v0.1.1/asset/category/handbook.md
 
 ## Project Overview
 
