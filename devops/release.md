@@ -8,30 +8,21 @@
 
 ## 操作方法
 
-### 使用opencode执行发布
+使用opencode执行发布：
 
-1. **读取规范**：
-   让opencode读取最新版本的发布规范文档链接
-
-2. **执行发布**：
-   opencode会根据规范自动执行以下步骤：
-   - 更新CHANGELOG.md
-   - 创建Git标签
-   - 推送标签
-   - 创建GitHub Release
-
-3. **验证发布**：
-   检查Release链接是否正确生成
+1. 让opencode读取最新版本的发布规范文档链接
+2. opencode会根据规范自动执行：更新CHANGELOG.md、创建Git标签、推送标签、创建GitHub Release
+3. 检查Release链接是否正确生成
 
 ## 问题处理
 
 ### Release notes不符合规范
 
-**问题**：opencode使用`--generate-notes`创建Release，自动生成的Release notes可能不符合CHANGELOG格式。
+opencode使用`--generate-notes`创建Release，自动生成的Release notes可能不符合CHANGELOG格式。
 
-**检查方法**：对比Release notes与CHANGELOG中对应版本的内容是否一致。
+检查方法：对比Release notes与CHANGELOG中对应版本的内容是否一致。
 
-**纠正方法**：
+纠正方法：
 ```bash
 gh api repos/<owner>/<repo>/releases/<release-id> \
   -X PATCH \
@@ -44,4 +35,4 @@ gh api repos/<owner>/<repo>/releases/<release-id> \
 - 内容从CHANGELOG提取"
 ```
 
-**预防措施**：让opencode创建Release后，主动询问是否需要更新Release notes。
+预防措施：让opencode创建Release后，主动询问是否需要更新Release notes。
