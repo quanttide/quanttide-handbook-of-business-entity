@@ -1,6 +1,17 @@
-# CODEBUDDY.md
+# AGENTS.md
 
-This file provides guidance to CodeBuddy Code when working with code in this repository.
+本仓库是量潮科技工作手册系统中的公司手册。
+
+## 工程标准规范
+
+遵循量潮科技工程标准规范，使用版本化链接保持内容不可变：
+
+**最新版本**：v0.1.0
+
+- 版本发布标准：https://github.com/quanttide/quanttide-specification-of-business-entity/blob/v0.1.0/devops/release.md
+- Git使用标准：https://github.com/quanttide/quanttide-specification-of-business-entity/blob/v0.1.0/devops/git.md
+- 文档格式标准：https://github.com/quanttide/quanttide-specification-of-business-entity/blob/v0.1.0/docs/format.md
+- Git仓库标准：https://github.com/quanttide/quanttide-specification-of-business-entity/blob/v0.1.0/asset/type/git_repo.md
 
 ## Project Overview
 
