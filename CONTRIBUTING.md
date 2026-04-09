@@ -46,6 +46,8 @@
 
 第四步：验证结果。确保全文格式元素少于同类文档平均水平；确保段落流畅、层次清晰；确保标题层级不超过三级；确保引号使用符合中文规范。
 
+## 维护经验
+
 Release notes格式问题：opencode使用--generate-notes创建Release，自动生成的Release notes可能不符合CHANGELOG格式。检查方法：对比Release notes与CHANGELOG中对应版本的内容。纠正方法：通过GitHub API更新Release notes内容。预防措施：让opencode创建Release后，主动询问是否需要更新Release notes。
 
-文档格式优化：避免加粗标签（如问题、方法）、不必要的子标题、冗余的列表层级；采用段落直接说明、极简的列表、必要的代码示例。
+常见格式问题：避免加粗标签（如问题、方法）、不必要的子标题、冗余的列表层级；采用段落直接说明、极简的列表、必要的代码示例。
