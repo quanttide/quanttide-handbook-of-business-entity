@@ -6,6 +6,17 @@
 
 ## [Unreleased]
 
+## [0.0.6] - 2026-04-09
+
+### Added
+
+- 新增 scm/vendor.md：云厂商工单博弈实战策略，包含三轮不满意差评机制、水平判断标准和处理步骤话术
+
+### Changed
+
+- 优化 AGENTS.md：简化工作流程，引用 CONTRIBUTING 文档格式优化方法
+- 优化 CONTRIBUTING.md：新增文档格式优化方法四步流程
+
 ## [0.0.5] - 2026-04-08
 
 ### Added
