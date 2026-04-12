@@ -1,24 +1,32 @@
-# Skill 工作流
+# 技能工程
 
-Skill 是可复用的工作流程模板，来源于两种生成方式。
+## 从对话上下文提炼Skill
 
-## 工作流一：自下而上总结
+使用一个纯净的对话完整地做一遍事情，然后在结束的时候复盘你的方法，再把这个方法提炼到项目的 Skill 里。
 
-从 AGENTS 对话中提炼可复用技能。
+比如说，你让 AI 写一个新功能，先增加一个开发者文档，增加一个代码模块，再对应增加一个单元测试模块，再增加一个用户文档说明。
 
-1. **抽取到 CONTRIBUTING**：从 AGENTS 对话中抽取工作经验和流程，写入项目 CONTRIBUTING 文档
-2. **抽取到项目 Skill**：将 CONTRIBUTING 中的某个主体内容提取为 `.agents/skills/<skill>/SKILL.md`
-3. **同步到全局**：将稳定的 Skill 同步到 gallery 仓库。
+一个对话结束以后，就可以要求 AI“总结我们刚才的工作流程”，然后“遵循 Agent Skill规范（规范网页地址）写成 xxx 文件”。
 
-## 工作流二：自上而下生成
+有两个重点补充说明。一是一定要从实际工作中总结，因为这是经过有效验证的。二是要让 AI 自己总结，人手动维护的 Skill 大多比较缺乏必要细节而质量糟糕。
 
-从 specification 规范文档直接生成 Skill。
+## 为Skill准确命名和分类
 
-1. **编写规范文档**：在 specification 仓库编写标准规范
-2. **生成 Skill**：将规范内容结构化为 `.agents/skills/<skill>/SKILL.md`
-3. **发布 gallery**：发布 gallery 子模块并更新全局 Skill
+一定要准确地定义 Skill 的名称和分类。命名和分类实际上就是在理解这个流程到底是什么，也为了以后持续改进做准备。
 
-## 示例
+分类尽可能遵循量潮的标准领域划分，比如“编程 code”、“写作 write”、“数字资产 asset”、“数据工程 data”、“文档工程 docs” 等。
 
-- 从 AGENTS 对话 → 写入 `CONTRIBUTING.md` → 创建 `.agents/skills/commit/SKILL.md`
-- 从 specification 规范 → 生成 `.agents/skills/release/SKILL.md` → 发布 gallery
+命名尽可能简单直接，比如“发布 release”、“计划 plan”、“设计 design”、“格式 format”等等。
+这样一眼就可以知道这个 Skill 在做什么。建议把领域名称作为前缀区分，如“docs-format”是文档格式维护 Skill。
+
+人类可以不纠结 Skill 的具体文本，但是一定要维护好命名、描述等元数据。
+
+## 只保留实际效果好的Skill
+
+低质量的 Skill 对于人机都是负担。所以质量低的 Skill 要及时抛弃。
+
+一类是流程不完善。这类通常要回到人机交互模式下慢慢摸索，而不是继续让这个低质量 Skill 做事。
+
+一类的 Skill 机制不够合适，需要显式、刚性的触发条件。比如上文提到的文档格式 Skill 其实更适合内置成一个自动化工具，只要维护 Markdown 文档就要触发。
+
+Skill 的舒适区是规则引擎写的不够灵活、又实际上存在标准规范的。比如基于 Git 的 commit、release 等流程，又或者是基于 TDD 的标准开发流程。这类流程要最大限度地 Skill 化，减少人类纠正 AI 的错误。
