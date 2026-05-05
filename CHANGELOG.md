@@ -6,6 +6,29 @@
 
 ## [Unreleased]
 
+## [0.1.0] - 2026-05-05
+
+### Added
+
+- ROADMAP.md 产品路线图
+- company-representative.md 法定代表人制度文档
+- 企业文化手册 (culture.md)
+- 招聘流程手册 (recruit.md) 及面试评估方法
+- 供应商管理博弈策略 (vendor.md)
+- BRD 文档方法体系（BRD 本质、方法论）
+- 组织架构文档 (org.md)
+- 技能生成工作流文档
+- CONTRIBUTING 贡献指南
+- Skill 工作流文档
+
+### Changed
+
+- 重构文化文档为结构化手册格式
+- 重构招聘文档为手册格式
+- 应用 docs-format 文档格式规范
+- 标准化角色名称为"高级技术工程师"
+- 精简 release 技能文档
+
 ## [0.0.6] - 2026-04-09
 
 ### Added
