@@ -15,7 +15,7 @@ project:
         - file: qtdata/project.md
         - file: qtdata/org.md
         - file: qtdata/support.md
-        - title: 数据管理
+        - title: 数据工程
           children:
             - file: qtdata/data/category.md
             - file: qtdata/data/blueprint.md

@@ -6,6 +6,25 @@
 
 ## [Unreleased]
 
+## [0.2.1] - 2026-05-12
+
+### Added
+
+- qtdata/org.md 岗位职责手册
+- qtdata/support.md 客户支持手册
+- qtdata/data/ 数据管理文档（category.md, blueprint.md, workflow.md）
+- data/index.md 数据工程概述
+- qtdata/project.md 项目管理文档
+
+### Changed
+
+- myst.yml TOC 维护：移除已删除的 data.md，新增 org.md、support.md、qtdata/data/、data/index.md
+- qtdata/ 更新：business.md 更新，data.md 删除
+
+### Removed
+
+- 从 myst.yml TOC 移除 CHANGELOG
+
 ## [0.2.0] - 2026-05-12
 
 ### Added
