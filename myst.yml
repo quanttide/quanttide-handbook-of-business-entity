@@ -1,0 +1,83 @@
+version: 1
+project:
+  title: 量潮科技工作手册
+  description: 量潮科技工作手册 - 包含企业经营各方面的管理流程和方法
+  keywords: [量潮科技, 工作手册]
+  authors:
+    - name: 量潮科技
+  license: CC-BY-4.0
+  toc:
+    - file: index.md
+    - title: 量潮数据
+      children:
+        - file: qtdata/index.md
+        - file: qtdata/business.md
+        - file: qtdata/project.md
+        - file: qtdata/data.md
+    - title: 量潮课堂
+      children:
+        - file: qtclass/org.md
+        - file: qtclass/course.md
+        - file: qtclass/business.md
+    - title: 软件工程
+      children:
+        - file: code/index.md
+    - title: 产品管理
+      children:
+        - file: product/add.md
+        - file: product/brd.md
+    - title: 项目管理
+      children:
+        - file: project/index.md
+    - title: 基础设施
+      children:
+        - file: infra/index.md
+        - file: infra/ubuntu.md
+        - file: infra/opencode.md
+        - file: infra/ollama.md
+        - file: infra/openclaw.md
+    - title: 身心健康
+      children:
+        - file: health/index.md
+        - file: health/self_care.md
+        - file: health/energy_management.md
+        - file: health/decompression.md
+    - title: 人力资源
+      children:
+        - file: hr/recurit.md
+    - title: 数据工程
+      children:
+        - file: data/README.md
+        - file: data/contract.md
+    - title: DevOps
+      children:
+        - file: devops/release.md
+    - title: 知识工程
+      children:
+        - file: knowl/extract.md
+    - title: 开源管理
+      children:
+        - file: share/index.md
+    - title: 标准化
+      children:
+        - file: stdn/README.md
+        - file: stdn/problem-domain.md
+    - title: 组织管理
+      children:
+        - file: organization/learning-culture.md
+        - file: organization/company-representative.md
+    - title: 供应链管理
+      children:
+        - file: scm/index.md
+        - file: scm/purchase.md
+        - file: scm/vendor.md
+    
+    - title: 智能体工程
+      children:
+        - file: agent/skill.md
+    - title: 介绍
+      children:
+        - file: intro/vibe_anything.md
+    - file: CHANGELOG.md
+site:
+  template: book-theme
