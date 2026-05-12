@@ -13,7 +13,8 @@ project:
         - file: qtdata/index.md
         - file: qtdata/business.md
         - file: qtdata/project.md
-        - file: qtdata/data.md
+        - file: qtdata/org.md
+        - file: qtdata/support.md
     - title: 量潮课堂
       children:
         - file: qtclass/org.md
