@@ -15,6 +15,11 @@ project:
         - file: qtdata/project.md
         - file: qtdata/org.md
         - file: qtdata/support.md
+        - title: 数据管理
+          children:
+            - file: qtdata/data/category.md
+            - file: qtdata/data/blueprint.md
+            - file: qtdata/data/workflow.md
     - title: 量潮课堂
       children:
         - file: qtclass/org.md
@@ -41,6 +46,7 @@ project:
         - file: hr/recurit.md
     - title: 数据工程
       children:
+        - file: data/index.md
         - file: data/README.md
         - file: data/contract.md
     - title: DevOps
