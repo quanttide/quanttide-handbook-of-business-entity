@@ -6,6 +6,27 @@
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-05-12
+
+### Added
+
+- myst.yml MyST 文档站点配置
+- .github/workflows/deploy.yml GitHub Pages 部署工作流
+- qtdata/project.md 项目管理文档
+- qtdata/data.md 数字资产清单文档
+
+### Changed
+
+- qtdata/ 重构：engineering.md → data.md，management.md → project.md
+- intro/vibe_anything.md 重命名为 intro/platform.md
+- intro/ 目录重命名为 work/
+
+### Removed
+
+- 删除 meta/ 目录（README.md, memory/ 存档）
+- 删除 write/ 目录（README.md, workflow.md）
+- 删除 infra/ 目录（README.md, index.md, ubuntu.md, opencode.md, ollama.md, openclaw.md）
+
 ## [0.1.0] - 2026-05-05
 
 ### Added
