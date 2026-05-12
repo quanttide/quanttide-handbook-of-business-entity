@@ -71,6 +71,5 @@ project:
     - title: 工作
       children:
         - file: work/platform.md
-    - file: CHANGELOG.md
 site:
   template: book-theme
