@@ -64,13 +64,13 @@ project:
         - file: scm/index.md
         - file: scm/purchase.md
         - file: scm/vendor.md
-    
+
     - title: 智能体工程
       children:
         - file: agent/skill.md
-    - title: 平台
+    - title: 工作
       children:
-        - file: intro/platform.md
+        - file: work/platform.md
     - file: CHANGELOG.md
 site:
   template: book-theme
