@@ -43,7 +43,8 @@ project:
         - file: health/decompression.md
     - title: 人力资源
       children:
-        - file: hr/recurit.md
+        - file: human/recurit/index.md
+        - file: human/recurit/tech.md
     - title: 数据工程
       children:
         - file: data/index.md
