@@ -37,7 +37,11 @@ project:
         - file: project/index.md
     - title: 商务
       children:
+        - file: business/index.md
+        - file: business/service.md
         - file: business/quotation.md
+        - file: business/contract.md
+        - file: business/negotiation.md
     - title: 身心健康
       children:
         - file: health/index.md
