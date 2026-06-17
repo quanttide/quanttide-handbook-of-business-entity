@@ -93,7 +93,9 @@ project:
     - title: 数字资产管理
       children:
         - file: digital/guide.md
-    - title: 课程管理
+    - title: 叙事工程
+      children:
+        - file: write/engineering.md
       children:
         - file: course/deliberative.md
     - title: 实训管理
