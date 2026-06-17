@@ -26,18 +26,6 @@
 
 - 标记整个 v0.3.x 开源内部手册的完成
 
-### Added
-
-- 新增 human/index.md 人力资源工作手册门户
-- 新增 human/onboarding.md 入职操作手册
-- 新增 human/training.md 培训与开发手册
-
-### Changed
-
-- 重构 human/recruitment.md：分解入职、离职、培训为非招聘内容，合并 recurit/index.md 考核标准
-- 删除 human/recurit/ 招聘考核目录（内容合并至 recruitment.md，tech.md 迁至 gallery）
-- 更新 myst.yml TOC，反映 human/ 新结构
-
 ## [0.3.23] - 2026-06-17
 
 ### Fixed
