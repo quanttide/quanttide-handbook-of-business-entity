@@ -62,10 +62,10 @@ project:
         - file: sales/social-media.md
     - title: 创业管理
       children:
-        - file: entrepreneurship/lifecycle.md
+        - file: enterprise/lifecycle.md
     - title: 沟通管理
       children:
-        - file: communication/memo.md
+        - file: connect/memo.md
     - title: 新媒体运营
       children:
         - file: social-media/playbook.md
@@ -92,7 +92,7 @@ project:
         - file: admin/guide.md
     - title: 数字资产管理
       children:
-        - file: digital/guide.md
+        - file: asset/guide.md
     - title: 叙事工程
       children:
         - file: write/engineering.md
