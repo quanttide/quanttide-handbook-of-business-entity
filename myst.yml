@@ -54,6 +54,12 @@ project:
     - title: 战略管理
       children:
         - file: strategy/playbook.md
+    - title: 公共关系
+      children:
+        - file: pr/guide.md
+    - title: 销售管理
+      children:
+        - file: sales/social-media.md
     - title: 身心健康
       children:
         - file: health/index.md
