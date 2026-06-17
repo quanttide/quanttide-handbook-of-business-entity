@@ -6,6 +6,87 @@
 
 ## [Unreleased]
 
+## [0.3.11] - 2026-06-17
+
+### Added
+
+- human/recruitment.md 人力资源工作手册（风投模型招聘体系）
+- finance/guide.md 财务管理工作手册（现金流报警机制）
+- legal/compliance.md 法务管理工作手册（VPN合规红绿灯）
+- org/design.md 组织管理工作手册（辅助性原则+机制设计六步法）
+- delib/playbook.md 议事管理工作手册（周会/OKR/审计管理）
+- admin/guide.md 行政管理工作手册（任务管理/深思工作法/去中心化审批）
+- digital/guide.md 数字资产管理工作手册（分类治理/信息披露原则）
+
+## [0.3.10] - 2026-06-17
+
+### Added
+
+- risk/guide.md 风险管理工作手册（财务风险+项目风险）
+
+## [0.3.9] - 2026-06-17
+
+### Added
+
+- social-media/playbook.md 新媒体运营手册（双号模型+模因构建制度）
+
+## [0.3.8] - 2026-06-17
+
+### Added
+
+- communication/memo.md 沟通管理工作手册（基于备忘的沟通五大原则）
+
+## [0.3.7] - 2026-06-17
+
+### Added
+
+- entrepreneurship/lifecycle.md 创业管理工作手册（企业生命周期模型）
+
+## [0.3.6] - 2026-06-17
+
+### Added
+
+- pr/guide.md 公共关系手册（开发者关系/平台关系/公告管理）
+- sales/social-media.md 销售管理手册（新媒体场景化截流SOP）
+
+## [0.3.5] - 2026-06-17
+
+### Added
+
+- strategy/playbook.md 战略管理工作手册（涌现模型+敏捷周期）
+
+## [0.3.4] - 2026-06-17
+
+### Added
+
+- brand/manifesto.md 品牌管理工作手册（个性挖掘模型）
+
+## [0.3.3] - 2026-06-17
+
+### Added
+
+- community/playbook.md 社群运营工作手册（舞台剧模型）
+
+## [0.3.2] - 2026-06-17
+
+### Added
+
+- customer/interview.md 客户关系手册（新客户访谈）
+
+## [0.3.1] - 2026-06-17
+
+### Added
+
+- business/index.md 商务工作手册索引页
+- business/service.md 商务服务工作手册（售前阶段）
+- business/contract.md 商务合同工作手册（含框架协议场景）
+- business/negotiation.md 商务谈判工作手册
+
+### Changed
+
+- business/quotation.md 合并报价规范内容（遵循先例原则、用户偏好、3:4:3结构）
+- README.md 改为 index.md，表格改为列表
+
 ## [0.3.0] - 2026-05-19
 
 ### Added
