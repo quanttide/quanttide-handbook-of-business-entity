@@ -45,6 +45,9 @@ project:
     - title: 客户关系
       children:
         - file: customer/interview.md
+    - title: 社群运营
+      children:
+        - file: community/playbook.md
     - title: 身心健康
       children:
         - file: health/index.md
