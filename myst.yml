@@ -77,7 +77,11 @@ project:
         - file: risk/guide.md
     - title: 人力资源管理
       children:
+        - file: human/index.md
         - file: human/recruitment.md
+        - file: human/onboarding.md
+        - file: human/training.md
+        - file: human/resignation.md
     - title: 财务管理
       children:
         - file: finance/guide.md
@@ -120,10 +124,6 @@ project:
         - file: health/self_care.md
         - file: health/energy_management.md
         - file: health/decompression.md
-    - title: 人力资源
-      children:
-        - file: human/recurit/index.md
-        - file: human/recurit/tech.md
     - title: 数据工程
       children:
         - file: data/index.md
