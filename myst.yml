@@ -102,60 +102,12 @@ project:
     - title: 公司概况
       children:
         - file: intro/README.md
-        - title: 经营现状
-          children:
-            - file: intro/经营现状/README.md
-            - file: intro/经营现状/商业模式.md
-            - file: intro/经营现状/战略焦点.md
-            - file: intro/经营现状/管理体系.md
-        - title: 企业文化
-          children:
-            - file: intro/企业文化/README.md
-            - file: intro/企业文化/使命.md
-            - file: intro/企业文化/愿景.md
-            - file: intro/企业文化/价值观.md
-            - title: 方法论
-              children:
-                - file: intro/企业文化/方法论/README.md
-                - file: intro/企业文化/方法论/向死而生.md
-                - file: intro/企业文化/方法论/推己及人.md
-                - file: intro/企业文化/方法论/追本溯源.md
-        - title: 经营体系
-          children:
-            - file: intro/经营体系/README.md
-            - title: 创新体系
-              children:
-                - file: intro/经营体系/创新体系/README.md
-                - file: intro/经营体系/创新体系/信息化：从模糊到精确.md
-                - file: intro/经营体系/创新体系/数字化：从定性到定量.md
-                - file: intro/经营体系/创新体系/智能化：从被动到主动.md
-            - title: 工程体系
-              children:
-                - file: intro/经营体系/工程体系/README.md
-                - file: intro/经营体系/工程体系/反脆弱思想.md
-                - file: intro/经营体系/工程体系/自然演化思想.md
-                - file: intro/经营体系/工程体系/数据工程体系.md
-            - title: 管理体系
-              children:
-                - file: intro/经营体系/管理体系/README.md
-                - file: intro/经营体系/管理体系/法治思想.md
-                - file: intro/经营体系/管理体系/民主思想.md
-                - file: intro/经营体系/管理体系/议事管理体系.md
-                - file: intro/经营体系/管理体系/人力资源体系.md
-                - file: intro/经营体系/管理体系/项目管理体系.md
-                - file: intro/经营体系/管理体系/团队协作体系.md
-                - file: intro/经营体系/管理体系/数字资产体系.md
-                - file: intro/经营体系/管理体系/信用管理体系.md
-            - file: intro/经营体系/商业化体系.md
-        - title: 利益相关方
-          children:
-            - file: intro/利益相关方/README.md
-            - file: intro/利益相关方/员工.md
-            - file: intro/利益相关方/供应商.md
-            - file: intro/利益相关方/合作伙伴.md
-            - file: intro/利益相关方/投资者.md
-        - file: intro/战略体系.md
-        - file: intro/战术体系.md
+        - file: intro/status.md
+        - file: intro/culture.md
+        - file: intro/ops.md
+        - file: intro/stakeholders.md
+        - file: intro/strategy.md
+        - file: intro/tactics.md
       children:
         - file: course/deliberative.md
     - title: 实训管理
