@@ -66,6 +66,9 @@ project:
     - title: 沟通管理
       children:
         - file: communication/memo.md
+    - title: 新媒体运营
+      children:
+        - file: social-media/playbook.md
     - title: 身心健康
       children:
         - file: health/index.md
