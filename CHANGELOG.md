@@ -6,6 +6,16 @@
 
 ## [Unreleased]
 
+## [0.3.16] - 2026-06-17
+
+### Added
+
+- write/engineering.md 叙事工程手册（结构化写作管理+AI辅助流程）
+
+### Changed
+
+- narrative/ 目录重命名为 write/
+
 ## [0.3.15] - 2026-06-17
 
 ### Added
