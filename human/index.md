@@ -22,7 +22,6 @@
 - **入职操作手册** → [`onboarding.md`](onboarding.md)
 - **培训与开发手册** → [`training.md`](training.md)
 - **离职操作手册** → [`resignation.md`](resignation.md)
-- **招聘考核** → [`recurit/index.md`](recurit/index.md)
 
 ## 附录：HR 工作检查清单
 
