@@ -6,6 +6,19 @@
 
 ## [Unreleased]
 
+## [0.3.13] - 2026-06-17
+
+### Added
+
+- agent/engineering.md 智能体工程手册（AIGC三大领域：提示词/上下文/智能体工程）
+- infra/tools.md 基础设施手册（开发工具推荐清单）
+
+## [0.3.12] - 2026-06-17
+
+### Added
+
+- course/deliberative.md 课程管理工作手册（议事型课堂教研与评估）
+
 ## [0.3.11] - 2026-06-17
 
 ### Added
