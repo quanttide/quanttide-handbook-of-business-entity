@@ -96,6 +96,9 @@ project:
     - title: 课程管理
       children:
         - file: course/deliberative.md
+    - title: 实训管理
+      children:
+        - file: training/plan.md
     - title: 身心健康
       children:
         - file: health/index.md
