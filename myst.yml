@@ -63,6 +63,9 @@ project:
     - title: 创业管理
       children:
         - file: entrepreneurship/lifecycle.md
+    - title: 沟通管理
+      children:
+        - file: communication/memo.md
     - title: 身心健康
       children:
         - file: health/index.md
