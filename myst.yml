@@ -62,7 +62,7 @@ project:
         - file: sales/social-media.md
     - title: 创业管理
       children:
-        - file: enterprise/lifecycle.md
+        - file: enterpr/lifecycle.md
     - title: 沟通管理
       children:
         - file: connect/memo.md
@@ -132,8 +132,8 @@ project:
         - file: stdn/problem-domain.md
     - title: 组织管理
       children:
-        - file: organization/learning-culture.md
-        - file: organization/company-representative.md
+        - file: org/learning-culture.md
+        - file: org/company-representative.md
     - title: 供应链管理
       children:
         - file: scm/index.md
