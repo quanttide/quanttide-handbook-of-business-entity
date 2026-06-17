@@ -6,6 +6,12 @@
 
 ## [Unreleased]
 
+## [0.3.23] - 2026-06-17
+
+### Fixed
+
+- myst.yml 重复 children key 导致 CI 构建失败
+
 ## [0.3.22] - 2026-06-17
 
 ### Changed
