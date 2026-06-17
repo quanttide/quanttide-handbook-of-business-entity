@@ -117,6 +117,7 @@ project:
     - title: 知识工程
       children:
         - file: knowl/extract.md
+        - file: knowl/engineering.md
     - title: 开源管理
       children:
         - file: share/index.md
