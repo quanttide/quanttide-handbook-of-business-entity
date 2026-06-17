@@ -6,6 +6,14 @@
 
 ## [Unreleased]
 
+## [0.3.17] - 2026-06-17
+
+### Changed
+
+- digital/ 重命名为 asset/
+- communication/ 重命名为 connect/
+- entrepreneurship/ 重命名为 enterprise/
+
 ## [0.3.16] - 2026-06-17
 
 ### Added
