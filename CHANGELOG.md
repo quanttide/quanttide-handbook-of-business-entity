@@ -6,6 +6,13 @@
 
 ## [Unreleased]
 
+## [0.3.18] - 2026-06-17
+
+### Changed
+
+- enterprise/ 重命名为 enterpr/
+- organization/ 合并到 org/
+
 ## [0.3.17] - 2026-06-17
 
 ### Changed
