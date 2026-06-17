@@ -72,6 +72,27 @@ project:
     - title: 风险管理
       children:
         - file: risk/guide.md
+    - title: 人力资源管理
+      children:
+        - file: human/recruitment.md
+    - title: 财务管理
+      children:
+        - file: finance/guide.md
+    - title: 法务管理
+      children:
+        - file: legal/compliance.md
+    - title: 组织管理
+      children:
+        - file: org/design.md
+    - title: 议事管理
+      children:
+        - file: delib/playbook.md
+    - title: 行政管理
+      children:
+        - file: admin/guide.md
+    - title: 数字资产管理
+      children:
+        - file: digital/guide.md
     - title: 身心健康
       children:
         - file: health/index.md
