@@ -137,8 +137,12 @@ project:
     - title: 智能体工程
       children:
         - file: agent/skill.md
+        - file: agent/engineering.md
     - title: 工作
       children:
         - file: work/platform.md
+    - title: 基础设施
+      children:
+        - file: infra/tools.md
 site:
   template: book-theme
