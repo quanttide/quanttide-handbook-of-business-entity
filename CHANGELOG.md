@@ -6,6 +6,12 @@
 
 ## [Unreleased]
 
+## [0.3.22] - 2026-06-17
+
+### Changed
+
+- intro/ 二次整理：39 个中文目录文件合并为 7 个英文文件（status/culture/ops/stakeholders/strategy/tactics）
+
 ## [0.3.21] - 2026-06-17
 
 ### Changed
