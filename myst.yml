@@ -48,6 +48,9 @@ project:
     - title: 社群运营
       children:
         - file: community/playbook.md
+    - title: 品牌管理
+      children:
+        - file: brand/manifesto.md
     - title: 身心健康
       children:
         - file: health/index.md
