@@ -51,6 +51,9 @@ project:
     - title: 品牌管理
       children:
         - file: brand/manifesto.md
+    - title: 战略管理
+      children:
+        - file: strategy/playbook.md
     - title: 身心健康
       children:
         - file: health/index.md
