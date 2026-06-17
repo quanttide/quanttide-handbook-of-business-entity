@@ -6,6 +6,19 @@
 
 ## [Unreleased]
 
+## [0.3.19] - 2026-06-17
+
+### Added
+
+- qtclass/customer.md 量潮课堂客户画像（学生+老师）
+- qtclass/sales.md 量潮课堂招生工作手册（流程+渠道+招聘降级）
+
+### Changed
+
+- social-media/ 重命名为 media/
+- qtclass/profile.md 重命名为 customer.md
+- qtclass/enrollment.md 重命名为 sales.md
+
 ## [0.3.18] - 2026-06-17
 
 ### Changed
