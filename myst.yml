@@ -60,6 +60,9 @@ project:
     - title: 销售管理
       children:
         - file: sales/social-media.md
+    - title: 创业管理
+      children:
+        - file: entrepreneurship/lifecycle.md
     - title: 身心健康
       children:
         - file: health/index.md
