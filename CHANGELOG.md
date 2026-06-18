@@ -6,7 +6,21 @@
 
 ## [Unreleased]
 
-## [0.4.1] - 2026-06-17
+## [0.4.2] - 2026-06-18
+
+### Added
+
+- 新增 sales/index.md 销售工作手册门户
+- 新增 sales/workflow.md 销售流程工作手册（获客→触达→转化→跟进）
+- 新增 sales/scripts.md 销售话术工作手册（6 场景标准话术）
+- 新增 sales/platforms.md 销售工具工作手册（跟进表、日报、CRM）
+- 新增 sales/channel.md 获客渠道工作手册（社交媒体、技术社群、口碑推荐）
+
+### Changed
+
+- sales/social-media.md 重命名为 channel.md 并扩展为多渠道手册
+- 重构 sales/index.md 为 4 问题链结构（与商务手册对称）
+- 减少不必要的表格使用
 
 ### Added
 
