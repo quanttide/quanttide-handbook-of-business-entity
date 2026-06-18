@@ -62,6 +62,10 @@ project:
         - file: pr/guide.md
     - title: 销售管理
       children:
+        - file: sales/index.md
+        - file: sales/workflow.md
+        - file: sales/scripts.md
+        - file: sales/platforms.md
         - file: sales/social-media.md
     - title: 创业管理
       children:
