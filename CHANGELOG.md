@@ -6,6 +6,14 @@
 
 ## [Unreleased]
 
+## [0.4.3] - 2026-06-18
+
+### Changed
+
+- media/playbook.md：移除模因构建章节（移至教程），精简内容标准
+- write/engineering.md：移除核心理念和验收标准（移至教程），保留AI写作流程和检查清单
+- strategy/playbook.md：移至教程目录（纯概念内容，不适合手册）
+
 ## [0.4.2] - 2026-06-18
 
 ### Added
