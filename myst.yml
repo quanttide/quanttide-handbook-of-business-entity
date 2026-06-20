@@ -81,11 +81,11 @@ project:
     - title: 人力资源管理
       children:
         - file: human/index.md
-        - file: human/recruitment.md
-        - file: human/assessment.md
-        - file: human/onboarding.md
+        - file: human/recuritment/index.md
+        - file: human/recuritment/assessment.md
+        - file: human/allocation/onboarding.md
         - file: human/training.md
-        - file: human/resignation.md
+        - file: human/allocation/resignation.md
     - title: 财务管理
       children:
         - file: finance/guide.md
