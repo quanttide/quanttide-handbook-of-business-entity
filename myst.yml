@@ -83,9 +83,9 @@ project:
         - file: human/index.md
         - file: human/recuritment/index.md
         - file: human/recuritment/assessment.md
-        - file: human/allocation/onboarding.md
+        - file: human/relation/onboarding.md
         - file: human/training.md
-        - file: human/allocation/resignation.md
+        - file: human/relation/resignation.md
     - title: 财务管理
       children:
         - file: finance/guide.md
