@@ -104,7 +104,8 @@ project:
         - file: admin/guide.md
     - title: 数字资产管理
       children:
-        - file: asset/guide.md
+        - file: asset/index.md
+        - file: asset/quality.md
     - title: 叙事工程
       children:
         - file: write/engineering.md
