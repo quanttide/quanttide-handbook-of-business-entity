@@ -6,6 +6,16 @@
 
 ## [Unreleased]
 
+## [0.4.9] - 2026-06-20
+
+### Added
+
+- docs/myst.md：MyST 使用注意事项（URL 结构、模板下载、部署配置）
+
+### Fixed
+
+- myst.yml：添加 `site.options.folders: true`，修复子目录 index.md 无法独立访问的问题
+
 ## [0.4.8] - 2026-06-20
 
 ### Changed
