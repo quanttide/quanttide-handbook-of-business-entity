@@ -6,6 +6,16 @@
 
 ## [Unreleased]
 
+## [0.4.11] - 2026-06-20
+
+### Added
+
+- asset/maintain.md：新增数字资产迭代式维护手册——四步法（数据→问题清单→可检验标准→按资产定位维护）
+
+### Fixed
+
+- myst.yml：注册 asset/maintain.md 到数字资产管理章节
+
 ## [0.4.10] - 2026-06-20
 
 ### Changed
