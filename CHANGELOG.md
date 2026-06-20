@@ -6,6 +6,17 @@
 
 ## [Unreleased]
 
+## [0.4.12] - 2026-06-20
+
+### Changed
+
+- write/engineering.md → write/workflow.md：重构为三段式 workflow（意图→流程→验收），新增叙事逻辑校验和规范约束步骤
+- myst.yml：更新 write 文件引用从 engineering.md 改为 workflow.md
+
+### Added
+
+- write/workflow.md：新增叙事逻辑梳理章节——结论优先、隐性判断显式化、正反案例方法
+
 ## [0.4.11] - 2026-06-20
 
 ### Added
