@@ -68,6 +68,7 @@ project:
         - file: enterpr/lifecycle.md
     - title: 沟通管理
       children:
+        - file: connect/index.md
         - file: connect/memo.md
     - title: 新媒体运营
       children:
