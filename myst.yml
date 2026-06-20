@@ -106,6 +106,7 @@ project:
       children:
         - file: asset/index.md
         - file: asset/quality.md
+        - file: asset/maintain.md
     - title: 叙事工程
       children:
         - file: write/engineering.md
