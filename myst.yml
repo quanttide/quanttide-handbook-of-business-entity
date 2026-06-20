@@ -82,6 +82,7 @@ project:
       children:
         - file: human/index.md
         - file: human/recruitment.md
+        - file: human/assessment.md
         - file: human/onboarding.md
         - file: human/training.md
         - file: human/resignation.md
