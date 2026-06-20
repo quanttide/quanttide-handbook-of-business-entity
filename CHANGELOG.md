@@ -6,6 +6,23 @@
 
 ## [Unreleased]
 
+## [0.4.6] - 2026-06-20
+
+### Added
+
+- asset/quality.md：执行评估与输出诊断结果章节
+
+### Changed
+
+- 全部 27 份手册的附录检查清单从 `- [ ]` 格式改为验收标准段落
+- asset/guide.md 重命名为 asset/index.md
+- asset/audit.md 重命名为 asset/quality.md
+- myst.yml 修复：移除已不存在的文件引用，合并重复的"组织管理"章节
+
+### Removed
+
+- 移除 `- [ ]` 复选框格式（全部改为验收标准描述）
+
 ## [0.4.5] - 2026-06-20
 
 ### Added
