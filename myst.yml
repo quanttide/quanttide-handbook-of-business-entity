@@ -23,7 +23,6 @@ project:
     - title: 量潮课堂
       children:
         - file: qtclass/index.md
-        - file: qtclass/org.md
         - file: qtclass/course.md
         - file: qtclass/business.md
         - file: qtclass/customer.md
@@ -159,7 +158,6 @@ project:
 
     - title: 智能体工程
       children:
-        - file: agent/skill.md
         - file: agent/engineering.md
     - title: 工作
       children:
