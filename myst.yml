@@ -53,9 +53,6 @@ project:
     - title: 品牌管理
       children:
         - file: brand/manifesto.md
-    - title: 战略管理
-      children:
-        - file: strategy/playbook.md
     - title: 公共关系
       children:
         - file: pr/guide.md
@@ -96,6 +93,8 @@ project:
     - title: 组织管理
       children:
         - file: org/design.md
+        - file: org/learning-culture.md
+        - file: org/company-representative.md
     - title: 议事管理
       children:
         - file: delib/playbook.md
@@ -113,7 +112,6 @@ project:
       children:
         - file: intro/README.md
         - file: intro/status.md
-        - file: intro/culture.md
         - file: intro/ops.md
         - file: intro/stakeholders.md
         - file: intro/strategy.md
@@ -149,16 +147,11 @@ project:
       children:
         - file: stdn/README.md
         - file: stdn/problem-domain.md
-    - title: 组织管理
-      children:
-        - file: org/learning-culture.md
-        - file: org/company-representative.md
     - title: 供应链管理
       children:
         - file: scm/index.md
         - file: scm/purchase.md
         - file: scm/vendor.md
-
     - title: 智能体工程
       children:
         - file: agent/engineering.md
