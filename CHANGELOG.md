@@ -6,6 +6,21 @@
 
 ## [Unreleased]
 
+## [0.4.5] - 2026-06-20
+
+### Added
+
+- human/recuritment/allocation.md：HR 配置工作指南（职级定级、权限配置、发展路径）
+
+### Changed
+
+- human/allocation/ 重命名为 human/relation/（入离职归入劳动关系管理）
+- myst.yml 更新 human/ 路径
+
+### Fixed
+
+- myst.yml 新增 allocation.md 引用
+
 ## [0.4.4] - 2026-06-20
 
 ### Added
