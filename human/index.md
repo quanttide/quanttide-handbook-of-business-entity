@@ -13,21 +13,3 @@
 ## 培训与开发
 
 培训与开发的组织支撑职能详见独立手册：
-
-- **培训与开发手册** → [`training.md`](training.md)
-
-## 参考手册
-
-- **招聘手册** → [`recruitment.md`](recruitment.md)
-- **入职操作手册** → [`onboarding.md`](onboarding.md)
-- **培训与开发手册** → [`training.md`](training.md)
-- **离职操作手册** → [`resignation.md`](resignation.md)
-
-## 附录：HR 工作检查清单
-
-- [ ] 申请者的信任等级是否已评估？
-- [ ] 笔试题难度是否匹配岗位标准？
-- [ ] 面试问题是否已前置到笔试阶段？
-- [ ] Offer 谈判是否准备了弹性方案？
-- [ ] 入职流程是否按 [`onboarding.md`](onboarding.md) 执行？
-- [ ] 离职流程是否按 [`resignation.md`](resignation.md) 执行？
