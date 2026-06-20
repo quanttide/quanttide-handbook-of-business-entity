@@ -1,6 +1,5 @@
 # 沟通管理工作手册
 
-本章是沟通管理的手册部分。手册提供操作方法和模板，配套制度见《沟通管理章程》（`bylaw/connect/index.md`），概念讲解见教程（`tutorial/connect/index.md`）。
 
 ## 沟通渠道与平台
 
