@@ -83,6 +83,7 @@ project:
         - file: human/index.md
         - file: human/recuritment/index.md
         - file: human/recuritment/assessment.md
+        - file: human/recuritment/allocation.md
         - file: human/relation/onboarding.md
         - file: human/training.md
         - file: human/relation/resignation.md
