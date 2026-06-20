@@ -12,6 +12,11 @@
 
 - qtcloud/product.md：数据驱动的产品研发方法（意图→流程→验收三段论）
 
+### Changed
+
+- connect/index.md：精简沟通原则，三步判断法合并为两问一表
+- connect/index.md："大客户附加"改为"外部沟通保障"，与章程一致
+
 ## [0.4.6] - 2026-06-20
 
 ### Added
