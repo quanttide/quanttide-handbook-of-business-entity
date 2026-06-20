@@ -6,6 +6,26 @@
 
 ## [Unreleased]
 
+## [0.4.4] - 2026-06-20
+
+### Added
+
+- human/recuritment/assessment.md：从招聘手册独立出考核细则
+- human/recuritment/index.md：招聘手册，笔试阶段保留完整流程简介
+
+### Changed
+
+- 重构 human/ 目录：招聘相关移入 recuritment/，入离职移入 allocation/
+- human/index.md 重写
+- human/onboarding.md 精简标题
+- myst.yml 更新 human/ 路径
+
+### Removed
+
+- human/recruitment.md（拆分为 recuritment/index.md + assessment.md）
+- human/onboarding.md（移至 allocation/onboarding.md）
+- human/resignation.md（移至 allocation/resignation.md）
+
 ## [0.4.3] - 2026-06-18
 
 ### Changed
