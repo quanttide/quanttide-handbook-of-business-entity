@@ -20,6 +20,7 @@ project:
             - file: qtdata/data/category.md
             - file: qtdata/data/concept.md
             - file: qtdata/data/workflow.md
+            - file: qtdata/data/blueprint.md
     - title: 量潮课堂
       children:
         - file: qtclass/index.md
