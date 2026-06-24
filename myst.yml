@@ -77,6 +77,9 @@ project:
     - title: 风险管理
       children:
         - file: risk/guide.md
+    - title: 量潮招聘
+      children:
+        - file: qtrecurit/audit.md
     - title: 人力资源管理
       children:
         - file: human/index.md
@@ -86,7 +89,6 @@ project:
         - file: human/relation/onboarding.md
         - file: human/training.md
         - file: human/relation/resignation.md
-        - file: qtrecurit/audit.md
     - title: 财务管理
       children:
         - file: finance/guide.md
