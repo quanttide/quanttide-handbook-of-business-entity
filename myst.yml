@@ -86,6 +86,7 @@ project:
         - file: human/relation/onboarding.md
         - file: human/training.md
         - file: human/relation/resignation.md
+        - file: qtrecurit/audit.md
     - title: 财务管理
       children:
         - file: finance/guide.md
