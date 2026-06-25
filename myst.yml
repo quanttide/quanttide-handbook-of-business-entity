@@ -8,6 +8,9 @@ project:
   license: CC-BY-4.0
   toc:
     - file: index.md
+    - title: 战略管理
+      children:
+        - file: strategy/index.md
     - title: 量潮数据
       children:
         - file: qtdata/index.md
