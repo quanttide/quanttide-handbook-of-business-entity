@@ -6,6 +6,13 @@
 
 ## [Unreleased]
 
+## [0.4.13] - 2026-06-26
+
+### Added
+
+- qtdata/write/index.md：技术写作文档（用户文档、开发者文档分类框架）
+- myst.yml：量潮数据目录新增 write/index.md
+
 ## [0.4.12] - 2026-06-20
 
 ### Changed
