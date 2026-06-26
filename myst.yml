@@ -18,6 +18,7 @@ project:
         - file: qtdata/project.md
         - file: qtdata/org.md
         - file: qtdata/support.md
+        - file: qtdata/write/index.md
         - title: 数据工程
           children:
             - file: qtdata/data/category.md
