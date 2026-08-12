@@ -6,6 +6,11 @@
 
 ## [Unreleased]
 
+### Added
+
+- qtdata/email-workflow.md：新增订单邮件工作流（承接→报价→合同→执行→验收→交付→发票→收尾全流程邮件模板）
+- qtdata/index.md：目录新增「订单邮件工作流」入口
+
 ## [0.4.13] - 2026-06-26
 
 ### Added
