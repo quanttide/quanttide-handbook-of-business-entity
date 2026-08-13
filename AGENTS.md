@@ -16,6 +16,10 @@
 - Git仓库标准：https://github.com/quanttide/quanttide-specification-of-business-entity/blob/v0.1.1/asset/type/git_repo.md
 - 手册资产规范：https://github.com/quanttide/quanttide-specification-of-business-entity/blob/v0.1.1/asset/category/handbook.md
 
+## 首要范例
+
+[订单邮件工作流](qtdata/connect/email.md) 是编写流程类文档的首要范例：全流程以编号节点（E1-E18）组织，每个节点包含触发、发件人、邮件标题、模板正文、期望响应；分支与降级路径单列；角色职责前置声明；通用规则收尾。
+
 ## 子仓库维护
 
 在子仓库内修改文档后，提交推送。在父仓库更新子模块引用。
