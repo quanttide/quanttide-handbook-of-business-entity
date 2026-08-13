@@ -19,6 +19,7 @@ project:
         - file: qtdata/org.md
         - file: qtdata/support.md
         - file: qtdata/write/index.md
+        - file: qtdata/connect/email.md
         - title: 数据工程
           children:
             - file: qtdata/data/category.md
