@@ -84,7 +84,7 @@ project:
         - file: risk/guide.md
     - title: 量潮招聘
       children:
-        - file: qtrecurit/audit.md
+        - file: qtrecurit/index.md
     - title: 人力资源管理
       children:
         - file: human/index.md
