@@ -77,13 +77,15 @@ project:
         - file: connect/index.md
         - file: connect/memo.md
         - file: connect/channel.md
-        - file: connect/content.md
     - title: 新媒体运营
       children:
         - file: media/playbook.md
     - title: 风险管理
       children:
         - file: risk/guide.md
+    - title: 量潮招聘
+      children:
+        - file: qtrecurit/connect/content.md
     - title: 人力资源管理
       children:
         - file: human/index.md
