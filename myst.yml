@@ -76,7 +76,6 @@ project:
       children:
         - file: connect/index.md
         - file: connect/memo.md
-        - file: connect/channel.md
     - title: 新媒体运营
       children:
         - file: media/playbook.md
@@ -85,6 +84,7 @@ project:
         - file: risk/guide.md
     - title: 量潮招聘
       children:
+        - file: qtrecurit/connect/channel.md
         - file: qtrecurit/connect/content.md
     - title: 人力资源管理
       children:
