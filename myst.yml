@@ -77,6 +77,7 @@ project:
         - file: connect/index.md
         - file: connect/memo.md
         - file: connect/channel.md
+        - file: connect/content.md
     - title: 新媒体运营
       children:
         - file: media/playbook.md
