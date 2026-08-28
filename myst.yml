@@ -172,7 +172,6 @@ project:
         - file: work/platform.md
     - title: 基础设施
       children:
-        - file: infra/tools.md
         - file: infra/clean-snap.md
 site:
   template: book-theme
