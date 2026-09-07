@@ -112,9 +112,6 @@ project:
         - file: asset/index.md
         - file: asset/quality.md
         - file: asset/maintain.md
-    - title: 叙事工程
-      children:
-        - file: write/workflow.md
     - title: 公司概况
       children:
         - file: intro/README.md
