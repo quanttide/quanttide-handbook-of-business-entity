@@ -123,6 +123,7 @@ project:
         - file: intro/stakeholders.md
         - file: intro/strategy.md
         - file: intro/tactics.md
+        - file: intro/platform.md
     - title: 课程管理
       children:
         - file: course/deliberative.md
@@ -162,9 +163,6 @@ project:
     - title: 智能体工程
       children:
         - file: agent/engineering.md
-    - title: 工作
-      children:
-        - file: work/platform.md
     - title: 基础设施
       children:
         - file: infra/clean-snap.md

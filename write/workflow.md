@@ -1,6 +1,6 @@
-# 叙事工程工作手册
+# 叙事工程手册
 
-本章提供 AI 辅助写作的完整 workflow。配套制度见章程（`bylaw/write/index.md`），概念讲解见教程（`tutorial/write/index.md`）。
+本章提供 AI 辅助写作的完整 workflow。
 
 ## 意图
 
