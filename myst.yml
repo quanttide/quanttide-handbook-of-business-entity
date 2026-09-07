@@ -29,10 +29,8 @@ project:
     - title: 量潮课堂
       children:
         - file: qtclass/index.md
-        - file: qtclass/course.md
-        - file: qtclass/business.md
-        - file: qtclass/customer.md
-        - file: qtclass/sales.md
+        - file: qtclass/course/index.md
+        - file: qtclass/learn/index.md
     - title: 软件工程
       children:
         - file: code/index.md
