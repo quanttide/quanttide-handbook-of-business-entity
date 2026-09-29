@@ -28,6 +28,9 @@ project:
         - file: qtclass/index.md
         - file: qtclass/course/index.md
         - file: qtclass/learn/index.md
+    - title: 量潮众包
+      children:
+        - file: qtcrowd/index.md
     - title: 软件工程
       children:
         - file: code/index.md
@@ -79,6 +82,9 @@ project:
         - file: risk/guide.md
     - title: 量潮招聘
       children:
+        - file: qtrecurit/index.md
+        - file: qtrecurit/workflow/index.md
+        - file: qtrecurit/workflow/survey.md
         - file: qtrecurit/connect/channel.md
         - file: qtrecurit/connect/content.md
     - title: 人力资源管理

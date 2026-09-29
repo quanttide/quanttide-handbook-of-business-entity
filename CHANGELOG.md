@@ -4,6 +4,18 @@
 
 版本遵循语义化版本规范：0.0.x（探索期）→ 0.x.y（验证期）→ x.y.z（正式期）
 
+## [Unreleased]
+
+### Added
+
+- qtrecurit/index.md：量潮招聘总览（招聘原则、组织架构、关键指标、常见挑战与未来方向），自工作教程迁入
+- qtcrowd/index.md：量潮众包总览（经营思路、经营困难、应对思路、核心洞察与成功经验），自工作教程迁入
+- qtrecurit/workflow/survey.md：准入问卷发放流程并入教程版说明（为何用问卷、为何当天发、发件人统一、发送后验证）
+
+### Changed
+
+- myst.yml：新增「量潮众包」目录；「量潮招聘」目录补入总览与工作流程（qtrecurit/index.md、qtrecurit/workflow/index.md、qtrecurit/workflow/survey.md）
+
 ## [0.5.0] - 2026-08-13
 
 ### Added
