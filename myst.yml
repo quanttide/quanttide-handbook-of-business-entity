@@ -11,7 +11,7 @@ project:
     - title: 量潮数据
       children:
         - file: qtdata/index.md
-        - file: qtdata/business.md
+        - file: qtdata/business/quotation.md
         - file: qtdata/project.md
         - file: qtdata/org.md
         - file: qtdata/support.md
