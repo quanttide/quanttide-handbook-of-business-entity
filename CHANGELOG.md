@@ -508,3 +508,4 @@
 - 添加scm/目录：供应链管理
   - index.md - 供应链管理概述
   - purchase.md - 采购管理
+- 移除 qtrecurit 手册：迁移至量潮创新联盟手册仓（quanttide-handbook-of-innovation-alliance）
