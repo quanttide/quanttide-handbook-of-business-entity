@@ -6,6 +6,10 @@
 
 ## [Unreleased]
 
+### Added
+
+- qtadmin/work/journal.md：新增工作日志手册（输入原始想法与聊天记录，流程：收集→整理→提炼→表达）
+
 ## [0.5.1] - 2026-11-11
 
 ### Added
