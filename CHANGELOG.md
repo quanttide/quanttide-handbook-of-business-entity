@@ -6,15 +6,19 @@
 
 ## [Unreleased]
 
+## [0.5.1] - 2026-11-11
+
 ### Added
 
-- qtrecurit/index.md：量潮招聘总览（招聘原则、组织架构、关键指标、常见挑战与未来方向），自工作教程迁入
 - qtcrowd/index.md：量潮众包总览（经营思路、经营困难、应对思路、核心洞察与成功经验），自工作教程迁入
-- qtrecurit/workflow/survey.md：准入问卷发放流程并入教程版说明（为何用问卷、为何当天发、发件人统一、发送后验证）
 
 ### Changed
 
-- myst.yml：新增「量潮众包」目录；「量潮招聘」目录补入总览与工作流程（qtrecurit/index.md、qtrecurit/workflow/index.md、qtrecurit/workflow/survey.md）
+- myst.yml：新增「量潮众包」目录（qtcrowd/index.md）
+
+### Removed
+
+- qtrecurit 手册：迁移至量潮创新联盟手册仓（quanttide-handbook-of-innovation-alliance）
 
 ## [0.5.0] - 2026-08-13
 
@@ -508,4 +512,3 @@
 - 添加scm/目录：供应链管理
   - index.md - 供应链管理概述
   - purchase.md - 采购管理
-- 移除 qtrecurit 手册：迁移至量潮创新联盟手册仓（quanttide-handbook-of-innovation-alliance）
