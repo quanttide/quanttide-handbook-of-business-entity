@@ -76,26 +76,10 @@ project:
         - file: connect/memo.md
     - title: 新媒体运营
       children:
-        - file: media/playbook.md
+        - file: media/index.md
     - title: 风险管理
       children:
         - file: risk/guide.md
-    - title: 量潮招聘
-      children:
-        - file: qtrecurit/index.md
-        - file: qtrecurit/workflow/index.md
-        - file: qtrecurit/workflow/survey.md
-        - file: qtrecurit/connect/channel.md
-        - file: qtrecurit/connect/content.md
-    - title: 人力资源管理
-      children:
-        - file: human/index.md
-        - file: human/recuritment/index.md
-        - file: human/recuritment/assessment.md
-        - file: human/recuritment/allocation.md
-        - file: human/relation/onboarding.md
-        - file: human/training.md
-        - file: human/relation/resignation.md
     - title: 财务管理
       children:
         - file: finance/guide.md
@@ -104,7 +88,6 @@ project:
         - file: legal/compliance.md
     - title: 组织管理
       children:
-        - file: org/design.md
         - file: org/learning-culture.md
         - file: org/company-representative.md
     - title: 议事管理

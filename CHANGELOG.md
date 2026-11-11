@@ -10,6 +10,10 @@
 
 - qtadmin/work/journal.md：新增工作日志手册（输入原始想法与聊天记录，流程：收集→整理→提炼→表达）
 
+### Changed
+
+- myst.yml：清理失效导航——移除「量潮招聘」「人力资源管理」章节与 org/design.md 引用，media/playbook.md 更正为 media/index.md
+
 ## [0.5.1] - 2026-11-11
 
 ### Added
