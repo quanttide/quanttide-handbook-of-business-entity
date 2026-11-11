@@ -14,6 +14,10 @@
 
 - myst.yml：清理失效导航——移除「量潮招聘」「人力资源管理」章节与 org/design.md 引用，media/playbook.md 更正为 media/index.md
 
+### Fixed
+
+- deploy.yml：Node 18 升级为 22——上游 book-theme 模板新增 render 步骤（node --env-file，需 Node ≥20.6），CI 构建失败
+
 ## [0.5.1] - 2026-11-11
 
 ### Added
