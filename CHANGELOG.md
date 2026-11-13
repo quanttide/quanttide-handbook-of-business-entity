@@ -12,7 +12,8 @@
 
 ### Changed
 
-- myst.yml：清理失效导航——移除「量潮招聘」「人力资源管理」章节与 org/design.md 引用，media/playbook.md 更正为 media/index.md
+- qtcrowd/index.md 迁移至 qtclass/crowd/index.md：众包手册并入量潮课堂目录，myst.yml 移除「量潮众包」顶级章节、于「量潮课堂」下新增 crowd 入口
+- myst.yml：清理失效导航——移除「量潮招聘」「人力资源管理」章节与 org/design.md 引用，media/playbook.md 更正为 media/index.md；移除已迁出的 qtdata/business/quotation.md、qtdata/connect/email.md 引用
 
 ### Fixed
 

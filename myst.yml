@@ -11,12 +11,10 @@ project:
     - title: 量潮数据
       children:
         - file: qtdata/index.md
-        - file: qtdata/business/quotation.md
         - file: qtdata/project.md
         - file: qtdata/org.md
         - file: qtdata/support.md
         - file: qtdata/write/index.md
-        - file: qtdata/connect/email.md
         - title: 数据工程
           children:
             - file: qtdata/data/category.md
@@ -28,9 +26,7 @@ project:
         - file: qtclass/index.md
         - file: qtclass/course/index.md
         - file: qtclass/learn/index.md
-    - title: 量潮众包
-      children:
-        - file: qtcrowd/index.md
+        - file: qtclass/crowd/index.md
     - title: 软件工程
       children:
         - file: code/index.md
