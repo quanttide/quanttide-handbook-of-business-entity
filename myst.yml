@@ -15,6 +15,11 @@ project:
         - file: qtdata/org.md
         - file: qtdata/support.md
         - file: qtdata/write/index.md
+        - file: qtdata/business/index.md
+        - file: qtdata/business/service.md
+        - file: qtdata/business/quotation.md
+        - file: qtdata/business/contract.md
+        - file: qtdata/business/negotiation.md
         - title: 数据工程
           children:
             - file: qtdata/data/category.md
@@ -37,13 +42,6 @@ project:
     - title: 项目管理
       children:
         - file: project/index.md
-    - title: 商务
-      children:
-        - file: business/index.md
-        - file: business/service.md
-        - file: business/quotation.md
-        - file: business/contract.md
-        - file: business/negotiation.md
     - title: 客户关系
       children:
         - file: customer/interview.md

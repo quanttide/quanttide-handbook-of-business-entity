@@ -6,6 +6,10 @@
 
 ## [Unreleased]
 
+### Changed
+
+- 商务手册五篇（index、service、quotation、contract、negotiation）整体移入 `qtdata/business/`，归量潮数据目录：`myst.yml` 移除「商务」章节、五条目并入「量潮数据」，`qtdata/index.md` 的 `./business/quotation.md` 引用恢复有效；`quotation.md` 报价档案相对链接随目录深度调整（`../../` → `../../../`，指向不变）
+
 ## [0.5.2] - 2026-11-13
 
 ### Changed
