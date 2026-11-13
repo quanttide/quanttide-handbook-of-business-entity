@@ -6,6 +6,8 @@
 
 ## [Unreleased]
 
+## [0.5.2] - 2026-11-13
+
 ### Changed
 
 - qtcrowd/index.md 迁移至 qtclass/crowd/index.md：众包手册并入量潮课堂目录，myst.yml 移除「量潮众包」顶级章节、于「量潮课堂」下新增 crowd 入口
