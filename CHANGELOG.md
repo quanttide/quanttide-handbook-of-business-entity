@@ -6,6 +6,11 @@
 
 ## [Unreleased]
 
+### Changed
+
+- connect/index.md、connect/memo.md 迁移至 quanttide-handbook-of-communication-management（intro/）：沟通管理手册移出本仓，归沟通管理域手册
+- myst.yml：移除「沟通管理」章节导航（connect/index.md、connect/memo.md）
+
 ## [0.5.2] - 2026-11-13
 
 ### Changed
