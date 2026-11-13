@@ -8,6 +8,10 @@
 
 ### Changed
 
+- 商务手册五篇（index、clarify、quotation、contract、negotiation）迁移至 quanttide-handbook-of-business-development（intro/）：商务工作手册移出本仓，归商务拓展域手册，移除章程对照信息；`myst.yml` 移除五条导航，`qtdata/index.md` 两处商务报价链接改指新仓
+
+### Changed
+
 - 商务手册 service.md 更名 clarify.md（商务调研工作手册）：售前内容以「调研」命名，与 qtdata/project/clarify.md（调研阶段）译名一致；myst.yml、qtdata/business/index.md 引用同步更新
 
 ### Changed
