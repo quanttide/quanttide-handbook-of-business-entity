@@ -16,7 +16,7 @@ project:
         - file: qtdata/support.md
         - file: qtdata/write/index.md
         - file: qtdata/business/index.md
-        - file: qtdata/business/service.md
+        - file: qtdata/business/clarify.md
         - file: qtdata/business/quotation.md
         - file: qtdata/business/contract.md
         - file: qtdata/business/negotiation.md
