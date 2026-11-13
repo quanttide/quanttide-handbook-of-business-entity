@@ -6,10 +6,6 @@
 
 ## [Unreleased]
 
-### Added
-
-- qtadmin/work/journal.md：新增工作日志手册（输入原始想法与聊天记录，流程：收集→整理→提炼→表达）
-
 ### Changed
 
 - qtcrowd/index.md 迁移至 qtclass/crowd/index.md：众包手册并入量潮课堂目录，myst.yml 移除「量潮众包」顶级章节、于「量潮课堂」下新增 crowd 入口
