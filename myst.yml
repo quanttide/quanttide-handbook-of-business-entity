@@ -24,6 +24,7 @@ project:
     - title: 量潮课堂
       children:
         - file: qtclass/index.md
+        - file: qtclass/org.md
         - file: qtclass/course/index.md
         - file: qtclass/learn/index.md
         - file: qtclass/crowd/index.md

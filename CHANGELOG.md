@@ -8,6 +8,7 @@
 
 ### Changed
 
+- 新增 qtclass/org.md：量潮课堂组织管理（事业部运营与秘书处复核、招生与准入、共同契约），自 brochure/qtclass/index.md 迁入；双系统与学员分层已由 qtclass/index.md 与 learn/ 覆盖，未迁入；myst.yml 挂载
 - 商务手册五篇（index、clarify、quotation、contract、negotiation）迁移至 quanttide-handbook-of-business-development（intro/）：商务工作手册移出本仓，归商务拓展域手册，移除章程对照信息；`myst.yml` 移除五条导航，`qtdata/index.md` 两处商务报价链接改指新仓
 
 ### Changed
