@@ -27,6 +27,22 @@ site:
 - 设置 HTTP 代理：`HTTPS_PROXY=http://127.0.0.1:7890 myst build --html`
 - 或从已构建的项目复制 `_build/templates/site/myst/book-theme/` 目录到新项目
 
+## Node 版本要求
+
+**问题：** CI 在 "Build HTML Assets" 步骤快速失败（10–25 秒），构建日志提示 `Please update your Node or NPM versions.`
+
+**原因：** `npm install -g mystmd` 安装的是最新版 mystmd，从 1.13.0 起要求 Node >= 22。myst 启动时会做版本校验，workflow 里若固定 `node-version: 18.x`，校验失败即中止构建，跟文档内容无关。这个坑随 2026-11-12 发布的 mystmd 1.13.0 出现——此前 1.12.0 支持 Node 18，同样的配置可以构建成功。
+
+**解决：** 把 workflow 中 `setup-node` 的版本改为 22：
+
+```yaml
+- uses: actions/setup-node@v4
+  with:
+    node-version: 22
+```
+
+**排查提示：** 若同一组织内内容相近的 workflow 仍在成功，先对照它的 Node 版本——大概率就是版本差异。
+
 ## 构建输出
 
 `myst build --html` 输出到 `_build/html/` 目录。book-theme 是 SPA，所有页面的 HTML 内容通过 JSON 文件加载，主 `index.html` 是壳页面。非 `index.md` 文件（如 `memo.md`）会生成独立目录（如 `/memo/`）和对应的 JSON 数据文件。
