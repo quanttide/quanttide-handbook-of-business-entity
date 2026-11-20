@@ -24,7 +24,6 @@ project:
     - title: 量潮课堂
       children:
         - file: qtclass/index.md
-        - file: qtclass/org.md
         - file: qtclass/course/svip.md
         - file: qtclass/practice/index.md
         - file: qtclass/practice/task-confirmation.md

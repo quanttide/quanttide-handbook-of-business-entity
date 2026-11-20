@@ -15,6 +15,7 @@
 
 - `qtclass/learn/` 合并消化：`index.md` 与 `free.md`（服务形态、学员资格、培养机制、经营定位、免费资格六步流程）并入 `practice/index.md`；`paid.md` 改属课程线为 `course/svip.md`；`org.md` 指向与 `myst.yml` 导航同步，`learn/` 目录移除
 - `qtclass/crowd/index.md` 合并进 `practice/index.md`（众包任务线、经营困难与应对、核心洞察、经验与方向），原「加粗要点」列表按格式章程改写为散文；`myst.yml` crowd 入口移除，`crowd/` 目录清场
+- 移除 `qtclass/org.md`：仅「招生与准入」一节归位宣传册 `qtclass/index.md`（新节「招生方式」），运营职责与共同契约不再保留；`myst.yml` 入口移除
 
 - 移除 qtclass/course/index.md（课程体系）：合并至 profile/qtclass/course/index.md 作为单一事实源，myst.yml 移除导航
 - 新增 qtclass/org.md：量潮课堂组织管理（事业部运营与秘书处复核、招生与准入、共同契约），自 brochure/qtclass/index.md 迁入；双系统与学员分层已由 qtclass/index.md 与 learn/ 覆盖，未迁入；myst.yml 挂载
