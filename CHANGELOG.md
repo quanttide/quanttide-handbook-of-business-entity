@@ -9,8 +9,11 @@
 ### Added
 
 - qtclass/practice/：教学实践操作准则与三份工作流程（任务确认、激励规则、协作结算），自教学实践章程的维护要点与附件迁入；myst.yml 挂载
+- qtclass/course/svip.md：SVIP 一对一定制课程——自 `qtclass/learn/paid.md` 改属课程线（付费替代评审准入、同一套考核标准）
 
 ### Changed
+
+- `qtclass/learn/` 合并消化：`index.md` 与 `free.md`（服务形态、学员资格、培养机制、经营定位、免费资格六步流程）并入 `practice/index.md`；`paid.md` 改属课程线为 `course/svip.md`；`org.md` 指向与 `myst.yml` 导航同步，`learn/` 目录移除
 
 - 移除 qtclass/course/index.md（课程体系）：合并至 profile/qtclass/course/index.md 作为单一事实源，myst.yml 移除导航
 - 新增 qtclass/org.md：量潮课堂组织管理（事业部运营与秘书处复核、招生与准入、共同契约），自 brochure/qtclass/index.md 迁入；双系统与学员分层已由 qtclass/index.md 与 learn/ 覆盖，未迁入；myst.yml 挂载

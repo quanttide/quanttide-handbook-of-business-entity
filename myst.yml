@@ -25,7 +25,7 @@ project:
       children:
         - file: qtclass/index.md
         - file: qtclass/org.md
-        - file: qtclass/learn/index.md
+        - file: qtclass/course/svip.md
         - file: qtclass/crowd/index.md
         - file: qtclass/practice/index.md
         - file: qtclass/practice/task-confirmation.md
