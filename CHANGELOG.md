@@ -6,6 +6,10 @@
 
 ## [Unreleased]
 
+### Added
+
+- qtclass/practice/：教学实践操作准则与三份工作流程（任务确认、激励规则、协作结算），自教学实践章程的维护要点与附件迁入；myst.yml 挂载
+
 ### Changed
 
 - 移除 qtclass/course/index.md（课程体系）：合并至 profile/qtclass/course/index.md 作为单一事实源，myst.yml 移除导航

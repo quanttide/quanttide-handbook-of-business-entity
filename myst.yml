@@ -27,6 +27,10 @@ project:
         - file: qtclass/org.md
         - file: qtclass/learn/index.md
         - file: qtclass/crowd/index.md
+        - file: qtclass/practice/index.md
+        - file: qtclass/practice/task-confirmation.md
+        - file: qtclass/practice/incentive-rules.md
+        - file: qtclass/practice/settlement-rules.md
     - title: 软件工程
       children:
         - file: code/index.md
